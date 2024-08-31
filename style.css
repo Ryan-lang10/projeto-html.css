@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+
+}
+header{
+
+
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+header img{
+
+width: 5vw;
+margin: 2em;
+
+
+
+}
+
+.cristianoronaldo{
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+
+.cristianoronaldo img{
+
+border-radius: 5em;
+height: 65vh;
+width: 75%;
+-webkit-box-shadow: 9px 81px 130px 65px rgba(8,2,1,1);
+-moz-box-shadow: 9px 81px 130px 65px rgba(8,2,1,1);
+box-shadow: 9px 81px 130px 65px rgba(8,2,1,1);
+
+}
+
